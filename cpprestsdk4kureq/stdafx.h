@@ -14,3 +14,4 @@
 
 
 // プログラムに必要な追加ヘッダーをここで参照してください
+#include "cpprestsdk4kureq.h"
